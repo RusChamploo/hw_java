@@ -1,5 +1,5 @@
 
-package rus.kurganov;
+package rust.kurganov;
 
 public class Main {
     public static void main(String[] args) {
@@ -31,6 +31,11 @@ public class Main {
 
         System.out.println("Type combinations");
         System.out.println(a + " with type int + " + c +" with type double = " + (a + c));
+
+        int timeHour = 19;
+        int timeMinute = 59;
+        String dayWeekMonday = "Понедельник";
+        String dayWeekThursday = "Четверг";
 
 
     }
